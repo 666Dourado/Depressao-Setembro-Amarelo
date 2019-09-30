@@ -16,8 +16,8 @@ No site do IBGE pude obter diversas planilhas com os seguintes dados:
 
 ##Dashboard
 
-[dashboard](https://i.pinimg.com/originals/7b/02/a8/7b02a8d8160768eede3eb54c405dc828.png)
+![dashboard](https://i.pinimg.com/originals/7b/02/a8/7b02a8d8160768eede3eb54c405dc828.png)
 
 ##ETL
 
-[etl](https://i.pinimg.com/originals/2c/1e/31/2c1e315e161720c97bf96e6e84d9e2c8.png)
+![etl](https://i.pinimg.com/originals/2c/1e/31/2c1e315e161720c97bf96e6e84d9e2c8.png)
